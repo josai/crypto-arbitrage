@@ -1,2 +1,8 @@
 # crypto-arbitrage
-An exploration of tools that can be used for arbitrage trading in crypto markets.
+
+Some simple tools used for a blog about cryptocurrency arbitrage.
+
+## Dependencies:
+
+CoinGecko: https://github.com/man-c/pycoingecko
+Bittrex-Python-API: https://github.com/ericsomdahl/python-bittrex
